@@ -1,0 +1,40 @@
+@namespace url(http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul);
+
+#folderTree {
+	background-color: #DDDDDD !important;
+	border-right: 1px solid #AAAAAA !important;
+}
+
+#folderTree > treechildren::-moz-tree-row(odd) {
+	border: 1px solid transparent !important;
+  	background-color: #EEEEEE !important;
+}
+
+#folderTree > treechildren::-moz-tree-row(selected) {
+	border: 1px solid transparent !important;
+  	background-color: #BBBBBB !important;
+}
+
+#folderTree > treechildren::-moz-tree-row(hover) {
+	border: 1px solid black !important;
+}
+
+#threadTree {
+	background-color: #DDDDDD !important;
+	border-right: 1px solid #AAAAAA !important;
+}
+
+#threadTree > treechildren::-moz-tree-row(odd) {
+	border: 1px solid transparent !important;
+  	background-color: #EEEEEE !important;
+}
+
+#threadTree > treechildren::-moz-tree-row(selected) {
+	border: 1px solid transparent !important;
+  	background-color: #BBBBBB !important;
+}
+
+#threadTree > treechildren::-moz-tree-row(hover) {
+	border: 1px solid black !important;
+}
+
