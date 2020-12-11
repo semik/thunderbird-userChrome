@@ -12,13 +12,12 @@ I work with a huge amount of mails on several mail servers. In far away history 
 
 Thunderbird version 78 came with quite flat design, I like it except default icons for servers and folders, they are quite dominant and all the same to my eyes. One solution is to [color them](https://support.mozilla.org/en-US/kb/new-thunderbird-78#w_customize-the-colors-of-mail-folder-icons), but I do not like this. Other posibility is to use plugin [Phoeity Icons](https://addons.thunderbird.net/en-US/thunderbird/addon/phoenity-icons/?src=dp-dl-othersby) but that is too much colorfull to me. I was used to those original icons, solution is in [icons.css](https://github.com/semik/thunderbird-userChrome/blob/master/icons.css) taken from  (post in MozillaZine)[http://forums.mozillazine.org/viewtopic.php?f=30&t=3064381&p=14873377#].
 
-![My TB](https://github.com/semik/thunderbird-userChrome/blob/master/example.thunderbird.png)
-
 ### Open & closed lists
 
 ### Scroolbars in folder trees & message list
 
 For some weird reason scroolbars in Thunderbird 78 in area of folder trees & message list are ignoring system deaults. They are smaller, missing up and down buttons and with wery low contrast. I've found solution for better contrast but, still missing buttons and system color. It sucks. See (twisty.css)[https://github.com/semik/thunderbird-userChrome/blob/master/twisty.css]. I'm glad I learned new word 'twisty' which is used for this type of widget.
 
+![My TB](https://github.com/semik/thunderbird-userChrome/blob/master/example.thunderbird.png)
 
 ## Plugins
