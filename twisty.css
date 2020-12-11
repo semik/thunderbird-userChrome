@@ -1,0 +1,8 @@
+treechildren::-moz-tree-twisty {
+    list-style-image: url("twisty-closed.png") !important;
+}
+
+treechildren::-moz-tree-twisty(open) {
+    list-style-image: url("twisty-open.png") !important;
+}
+
