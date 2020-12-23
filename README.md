@@ -4,6 +4,14 @@ In far a far away history I was using [pine](https://en.wikipedia.org/wiki/Pine_
 
 ## Visual modifications
 
+You can change a lot of visual aspects of Thunderbird by file userChrome:
+
+```
+cd ~/.thunderbird/xyz.default/
+git clone https://github.com/semik/thunderbird-userChrome.git chrome
+```
+To get it working you also set ''toolkit.legacyUserProfileCustomizations.stylesheets'' to ''true'' i Config Editor, it is accesible from General tab of Thunderbird Settings.
+
 ### Lines in folder tree and message list
 
 I work with a huge amount of mails on several mail servers. In far away history Thunderbird designers decided to remove lines in folder and message list. Especially in message lists my eyes tends to lost line and assign wrong sender to wrong subject. Different colors for every odd line help me to track line without extra effort. Another aspect is that, big white area attracts attention, I want to put attention to content of email, other parts of email client should not have such dominant color as white is. Solution is style [lines.css](https://github.com/semik/thunderbird-userChrome/blob/master/lines.css), it works for me at least since TB 60. Today I do not remember where I've found solution so I can't credit original author here.
