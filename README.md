@@ -40,7 +40,7 @@ Thunderbird 78 started using light green for account name in folder panel which 
 
 ### Simple Mail Redirection
 
-[Simple Mail Redirection](https://addons.thunderbird.net/en-US/thunderbird/addon/simple-mail-redirection/) Bunce from Pine - essential if you are using RT or a similar ticketing system but users keep sending emails directly to your personal email.
+[Simple Mail Redirection](https://addons.thunderbird.net/en-US/thunderbird/addon/simple-mail-redirection/) Bounce from Pine - essential if you are using RT or a similar ticketing system but users keep sending emails directly to your personal email.
 
 ### DKIM Verifier
 
