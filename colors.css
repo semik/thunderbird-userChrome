@@ -1,0 +1,11 @@
+/* make folders with new mail blue */
+#folderTree > treechildren::-moz-tree-cell-text(folderNameCol, newMessages-true) {
+ font-weight: bold !important;
+ color: #0000d0 !important;
+}
+
+/* make line with new mail blue */
+treechildren::-moz-tree-cell-text(new) {
+color: #0000d0 !important;
+}
+
