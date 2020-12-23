@@ -33,3 +33,15 @@ Open & closed folder lists have quite big arrows which are looking nice with TB7
 Thunderbird 78 started using light green for account name in folder panel which has quite low contrast for me. I've discovered how to change the color of a new message in the message panel, the color of a folder in the folder tree but I'm still [struggling with the color of account](https://support.mozilla.org/cs/questions/1319249). See [colors.css](colors.css).
 
 ## Plugins
+
+### Nostalgy++
+
+[Manage emails / Nostalgy++](https://addons.thunderbird.net/en-US/thunderbird/addon/nostalgy_ng/) essential plugin! I can't use TB without it. I'm using it for moving email into a folder only by the keyboard.
+
+### Simple Mail Redirection
+
+[Simple Mail Redirection](https://addons.thunderbird.net/en-US/thunderbird/addon/simple-mail-redirection/) Bunce from Pine - essential if you are using RT or a similar ticketing system but users keep sending emails directly to your personal email.
+
+### DKIM Verifier
+
+[DKIM Verifier](https://addons.thunderbird.net/en-US/thunderbird/addon/dkim-verifier/) a tool used for verification of automatic signatures from domains.
