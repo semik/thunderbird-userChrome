@@ -16,7 +16,8 @@ Thunderbird version 78 came with quite flat design, I like it except default ico
 
 ### Scroolbars in folder trees & message list
 
-For some weird reason scroolbars in Thunderbird 78 in area of folder trees & message list are ignoring system deaults. They are smaller, missing up and down buttons and with wery low contrast. I've found solution for better contrast but, still missing buttons and system color. It sucks. See (twisty.css)[https://github.com/semik/thunderbird-userChrome/blob/master/twisty.css]. I'm glad I learned new word 'twisty' which is used for this type of widget.
+For some weird reason scroolbars in Thunderbird 78 in area of folder trees & message list are ignoring system deaults. They are smaller, missing up and down buttons and with wery low contrast. I've found solution for better contrast but, still missing buttons and system color. It sucks.
+
 
 ![My TB](https://github.com/semik/thunderbird-userChrome/blob/master/example.thunderbird.png)
 
